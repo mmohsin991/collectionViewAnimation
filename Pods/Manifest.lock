@@ -1,0 +1,10 @@
+PODS:
+  - BeanTransitionManager (0.2.1)
+
+DEPENDENCIES:
+  - BeanTransitionManager
+
+SPEC CHECKSUMS:
+  BeanTransitionManager: 2198ae7911cdd50d70c6f62d931b7f072cc52303
+
+COCOAPODS: 0.37.2

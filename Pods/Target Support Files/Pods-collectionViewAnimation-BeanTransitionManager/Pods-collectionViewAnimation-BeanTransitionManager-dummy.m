@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_collectionViewAnimation_BeanTransitionManager : NSObject
+@end
+@implementation PodsDummy_Pods_collectionViewAnimation_BeanTransitionManager
+@end

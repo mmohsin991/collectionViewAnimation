@@ -1,0 +1,1 @@
+../../../BeanTransitionManager/Pod/Classes/UIImageView+BeanTransitionManager.h
